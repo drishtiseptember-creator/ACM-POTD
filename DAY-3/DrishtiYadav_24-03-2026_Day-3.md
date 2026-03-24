@@ -1,3 +1,4 @@
+
 int maxProfit(int* prices, int pricesSize) {
     int smallest=prices[0];
     int profit=0;
